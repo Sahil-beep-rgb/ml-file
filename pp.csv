@@ -1,0 +1,5 @@
+example,credit_score,employment,colletral,loan approval
+1.        high        good       yes       yes
+2.        medium        no         no        no
+3.       high         no          yes       no
+4.       medium       yes         yes       no
